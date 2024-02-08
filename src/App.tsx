@@ -18,9 +18,24 @@ function App() {
 
       <div className="grid grid-cols-3 gap-6 auto-rows-[250px]">
         <NewNoteCard />
-        <NoteCard />
-        <NoteCard />
-        <NoteCard />
+        <NoteCard
+          note={{
+            date: new Date(2024, 1, 1),
+            content: "Card",
+          }}
+        />
+        <NoteCard
+          note={{
+            date: new Date(2022, 1, 1),
+            content: "Card",
+          }}
+        />
+        <NoteCard
+          note={{
+            date: new Date(2023, 1, 1),
+            content: "Card",
+          }}
+        />
       </div>
     </div>
   );
