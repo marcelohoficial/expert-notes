@@ -2,6 +2,16 @@
 
 Welcome to the Expert Notes App! This project is a sophisticated web application built using React, TailwindCSS, and WebKit Speech Recognition. The primary functionality of this app is to record audio from the user's microphone, transcribe it into text notes, and provide features to save, delete, and search these notes.
 
+### Visualização
+
+Dashboard:
+
+<img align="center" alt="CSS" height="405" width="720" src="https://github.com/marcelohoficial/expert-notes/blob/master/src/assets/dashboard.png">
+
+Grave uma nota:
+
+<img align="center" alt="CSS" height="405" width="720" src="https://github.com/marcelohoficial/expert-notes/blob/master/src/assets/gravar-nota.png">
+
 ## Table of Contents
 
 - [Introduction](#introduction)
