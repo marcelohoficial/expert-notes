@@ -53,8 +53,8 @@ To get started with the Expert Notes App, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/Expert Notes-app.git
-   cd Expert Notes-app
+   git clone [https://github.com/your-username/Expert Notes-app.git](https://github.com/marcelohoficial/expert-notes)
+   cd expert-notes
    ```
 
 2. **Install dependencies**:
